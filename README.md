@@ -1,4 +1,4 @@
-````md
+
 <h1 align="center">Hi 👋, I'm Daksh Malviya</h1>
 
 <h3 align="center">🚀 Full Stack Developer | CSE Student | Open Source Enthusiast</h3>
@@ -128,4 +128,4 @@
 <br><br>
 🚀 Let's Build Something Amazing Together!
 </h3>
-```
+
